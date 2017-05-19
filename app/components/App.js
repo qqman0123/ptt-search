@@ -43,6 +43,7 @@ class SelectBoard extends React.Component {
         { value: 'soft_job', label: '軟體版 (Soft_Job)'  },
         { value: 'studyabroad', label: '留學版 (StudyAbroad)'  },
         { value: 'tech_job', label: '科技版 (Tech_Job)'  }
+        { value: 'tech_job', label: '股票版 (Stock)'  }
     ];
     return (
       <div>
